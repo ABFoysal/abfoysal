@@ -1,16 +1,55 @@
-## Hi there 👋
+# Hi, I'm AB 👋
 
-<!--
-**ABFoysal/abfoysal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Electrical & Electronic Engineering Student  
+🎨 Social Media Designer (Photoshop & Illustrator)  
+🐍 Python Learner  
+🚀 Future UAV & Defense Systems Developer  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+I am an EEE student passionate about combining **engineering, design, and technology** to build impactful systems.  
+Currently focusing on Python, electronics, and UAV-related skills.
+
+---
+
+## 🔧 Skills
+- 🎨 Adobe Photoshop & Illustrator  
+- 🐍 Python (Beginner–Intermediate)  
+- ⚡ Basic Electronics & Circuits  
+- 🧠 Problem Solving  
+
+---
+
+## 📌 Current Goals
+- Build strong Python foundation  
+- Learn Embedded Systems (Arduino, sensors)  
+- Start UAV-related projects  
+- Grow professional design portfolio  
+
+---
+
+## 📂 Featured Projects
+
+### 🎨 Social Media Designs
+Creative posts, branding, and marketing visuals  
+👉 (repo link)
+
+### 🐍 Python Practice
+Basic Python projects and problem-solving  
+👉 (repo link)
+
+### ⚡ EEE Projects
+Academic and practical electronics work  
+👉 (repo link)
+
+---
+
+## 📊 GitHub Stats
+![AB's GitHub stats](https://github-readme-stats.vercel.app/api?username=abfoysal&show_icons=true&theme=tokyonight)
+
+---
+
+## 🌐 Connect With Me
+- 🎨 Behance: [(your link)](https://www.behance.net/abfoysal)
+- 📧 Email: abfoysal.eee@gmail.com
