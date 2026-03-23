@@ -51,5 +51,5 @@ Academic and practical electronics work
 ---
 
 ## 🌐 Connect With Me
-- 🎨 Behance: [(https://www.behance.net/abfoysal)]
+- 🎨 Behance: https://www.behance.net/abfoysal
 - 📧 Email: abfoysal.eee@gmail.com
