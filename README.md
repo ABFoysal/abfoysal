@@ -3,13 +3,13 @@
 🎓 Electrical & Electronic Engineering Student  
 🎨 Social Media Designer (Photoshop & Illustrator)  
 🐍 Python Learner  
-🚀 Future UAV & Defense Systems Developer  
+🚀 Future UAV & EV Systems Developer  
 
 ---
 
 ## 🚀 About Me
 I am an EEE student passionate about combining **engineering, design, and technology** to build impactful systems.  
-Currently focusing on Python, electronics, and UAV-related skills.
+Currently focusing on Python, electronics, UAV and EV-related skills.
 
 ---
 
