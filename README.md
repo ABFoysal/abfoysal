@@ -1,18 +1,18 @@
 # Hi, I'm AB Foysal 👋
 
-**EEE Student · PLC & Automation · Graphic Designer · Aspiring UAV Engineer**
+**EEE Student · PLC & Automation · Graphic Designer · Solar & EV Systems**
 
 ---
 
 ## About Me
 
-I'm an Electrical & Electronic Engineering student from Bangladesh, focused on industrial automation, embedded systems, and UAV technology. I combine engineering and design to build practical, real-world projects.
+I'm an Electrical & Electronic Engineering student from Bangladesh, focused on industrial automation, embedded systems, and EV technology. I combine engineering and design to build practical, real-world projects.
 
-- 🔭 Currently working on **PLC automation projects** using Factory I/O, TIA Portal, and TwinCAT 3
+- 🔭 Currently researching **EV Charging integrated with Solar Energy & Microgrid** for my thesis
+- ⚙️ Building **PLC automation projects** using Factory I/O, TIA Portal, and TwinCAT 3
 - 🌱 Learning **Python** and **Embedded Systems** (Arduino, sensors)
-- 🎯 Building toward a career in **UAV systems and defense technology**
 - 🎨 Active graphic designer specializing in **Photoshop & Illustrator**
-
+- 🚁 Personal interest in **UAV systems and flight control**
 ---
 
 ## 🛠️ Technical Skills
@@ -24,6 +24,18 @@ I'm an Electrical & Electronic Engineering student from Bangladesh, focused on i
 | Programming | Python, basics of C |
 | Electronics | Circuit design, Arduino, sensors |
 | Design | Adobe Photoshop, Illustrator |
+---
+
+## 🧰 Tools & Technologies
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![TIA Portal](https://img.shields.io/badge/TIA%20Portal-009999?style=for-the-badge&logo=siemens&logoColor=white)
+![TwinCAT](https://img.shields.io/badge/TwinCAT%203-FF6600?style=for-the-badge&logo=beckhoff&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
@@ -37,10 +49,12 @@ Automated bottle filling station with valve control, level sensing, and fault ha
 
 ---
 
-## 📊 GitHub Stats
+## 🗺️ What I'm Working On
 
-![AB's GitHub stats](https://github-readme-stats.vercel.app/api?username=abfoysal&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abfoysal&layout=compact&theme=tokyonight&hide_border=true)
+- 📚 Thesis: EV Charging system integrated with Solar Energy & Microgrid
+- ⚙️ Expanding PLC automation projects with Factory I/O
+- 🐍 Building Python skills for engineering applications
+- 🎨 Growing my design portfolio on Behance
 
 ---
 
