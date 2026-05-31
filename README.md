@@ -1,55 +1,51 @@
-# Hi, I'm AB 👋
+# Hi, I'm AB Foysal 👋
 
-🎓 Electrical & Electronic Engineering Student  
-🎨 Social Media Designer (Photoshop & Illustrator)  
-🐍 Python Learner  
-🚀 Future UAV & EV Systems Developer  
+**EEE Student · PLC & Automation · Graphic Designer · Aspiring UAV Engineer**
 
 ---
 
-## 🚀 About Me
-I am an EEE student passionate about combining **engineering, design, and technology** to build impactful systems.  
-Currently focusing on Python, electronics, UAV and EV-related skills.
+## About Me
+
+I'm an Electrical & Electronic Engineering student from Bangladesh, focused on industrial automation, embedded systems, and UAV technology. I combine engineering and design to build practical, real-world projects.
+
+- 🔭 Currently working on **PLC automation projects** using Factory I/O, TIA Portal, and TwinCAT 3
+- 🌱 Learning **Python** and **Embedded Systems** (Arduino, sensors)
+- 🎯 Building toward a career in **UAV systems and defense technology**
+- 🎨 Active graphic designer specializing in **Photoshop & Illustrator**
 
 ---
 
-## 🔧 Skills
-- 🎨 Adobe Photoshop & Illustrator  
-- 🐍 Python (Beginner–Intermediate)  
-- ⚡ Basic Electronics & Circuits  
-- 🧠 Problem Solving  
+## 🛠️ Technical Skills
+
+| Area | Tools & Technologies |
+|---|---|
+| PLC Programming | TIA Portal V16, TwinCAT 3, SCL, Structured Text |
+| Simulation | Factory I/O, PLCSIM |
+| Programming | Python, basics of C |
+| Electronics | Circuit design, Arduino, sensors |
+| Design | Adobe Photoshop, Illustrator |
 
 ---
 
-## 📌 Current Goals
-- Build strong Python foundation  
-- Learn Embedded Systems (Arduino, sensors)  
-- Start UAV-related projects  
-- Grow professional design portfolio  
+## 📂 Projects
 
----
+### ⚙️ [SortingByHeight — Factory I/O](https://github.com/ABFoysal/SortingByHeight-FactoryIO)
+Sort by Height scene automated with **Siemens S7 (TIA Portal V16 / SCL)** and **Beckhoff (TwinCAT 3 / ST)**
 
-## 📂 Featured Projects
-
-### 🎨 Social Media Designs
-Creative posts, branding, and marketing visuals  
-👉 (repo link)
-
-### 🐍 Python Practice
-Basic Python projects and problem-solving  
-👉 (repo link)
-
-### ⚡ EEE Projects
-Academic and practical electronics work  
-👉 (repo link)
+### 💧 [Water Filling Automation — Factory I/O](https://github.com/ABFoysal/WaterFilling-Automation-FactoryIO)
+Automated bottle filling station with valve control, level sensing, and fault handling using PLC
 
 ---
 
 ## 📊 GitHub Stats
-![AB's GitHub stats](https://github-readme-stats.vercel.app/api?username=abfoysal&show_icons=true&theme=tokyonight)
+
+![AB's GitHub stats](https://github-readme-stats.vercel.app/api?username=abfoysal&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abfoysal&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
-## 🌐 Connect With Me
-- 🎨 Behance: https://www.behance.net/abfoysal
-- 📧 Email: abfoysal.eee@gmail.com
+## 🌐 Connect
+
+[![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/abfoysal)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abfoysal.eee@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ABFoysal)
