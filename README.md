@@ -10,7 +10,7 @@ I'm an Electrical & Electronic Engineering student from Bangladesh, focused on i
 
 - 🔭 Currently researching **EV Charging integrated with Solar Energy & Microgrid** for my thesis
 - ⚙️ Building **PLC automation projects** using Factory I/O, TIA Portal, and TwinCAT 3
-- 🌱 Learning **Python** and **Embedded Systems** (Arduino, sensors)
+- 🌱 Learning **Python** and **Embedded Systems** 
 - 🎨 Active graphic designer specializing in **Photoshop & Illustrator**
 - 🚁 Personal interest in **UAV systems and flight control**
 ---
